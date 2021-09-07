@@ -6,13 +6,15 @@
 
 🎓 I graduated from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!) in May, 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
-📚 I'm currently getting my M.S. in Computer Science with an emphasis in Artificial Intelligence at [Indiana University-Bloomington](https://www.indiana.edu/) (Go Hoosiers!).
+📚 I'm currently getting my M.S. in Computer Science at [Indiana University-Bloomington](https://www.indiana.edu/) (Go Hoosiers!) where I am focusing on Computer Vision.
 
-🔭 In my free time I am working on [Abacus](https://github.com/acm-mu/abacus).
+🔭 In my free time, I _try_ to work on [Turntable](https://github.com/Jl5her/Turntable).
 
-🌱 I’m currently deepening my knowledge on [React](https://reactjs.org/), [Node.js](https://nodejs.org/), and various AWS skills.
+🏗 In the past, I have worked on [Abacus](https://github.com/acm-mu/abacus) with [Jack Pfeiffer](https://github.com/Jl5her) and other members of [Marquette ACM](https://github.com/acm-mu).
 
-🤝 I’m looking to collaborate on **AI related projects.** Stuff like [this paper on Predictive Inequity in Object Detection](https://arxiv.org/pdf/1902.11097.pdf?fbclid=IwAR0XylkVZ-dRJZ_II6Me5200IWjvFYylQ1zInyZrlpwXFP6Ns7S7JZ7jeOc) is super fascinating to me.
+🌱 I’m currently deepening my knowledge on [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), and [PySpark](http://spark.apache.org/docs/latest/api/python/).
+
+🤝 I’m looking to collaborate on **AI related projects.** Projects like [this paper on Predictive Inequity in Object Detection](https://arxiv.org/pdf/1902.11097.pdf?fbclid=IwAR0XylkVZ-dRJZ_II6Me5200IWjvFYylQ1zInyZrlpwXFP6Ns7S7JZ7jeOc) are super fascinating to me.
 
 📫 [Email](mailto:brad@cooleyweb.org) is the best way to reach me.
 
