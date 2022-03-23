@@ -2,17 +2,17 @@
 
 ### A passionate software engineer and data scientist originally from Colorado
 
-💼 I’m currently working as a Data Science intern at [Steelcase](https://www.steelcase.com/) in Grand Rapids, MI.
+💼 I’m currently working as a Data Engineering intern at [Steelcase](https://www.steelcase.com/) in Grand Rapids, MI.
 
 🎓 I graduated from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!) in May, 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
-📚 I'm currently getting my M.S. in Computer Science at [Indiana University-Bloomington](https://www.indiana.edu/) (Go Hoosiers!) where I am focusing on Computer Vision.
+📚 I'm currently getting my M.S. in Computer Science at [Indiana University-Bloomington](https://www.indiana.edu/) (Go Hoosiers!) where I am focusing on AI and Computer Vision. I am currently collaborating with the [University of California, Davis](https://www.ucdavis.edu/) on a computer vision model that deals with chicken species detection.
 
-🔭 In my free time, I _try_ to work on [Turntable](https://github.com/Jl5her/Turntable).
+🔭 In my free time, I'm building a personal website (again).
 
 🏗 In the past, I have worked on [Abacus](https://github.com/acm-mu/abacus) with [Jack Pfeiffer](https://github.com/Jl5her) and other members of [Marquette ACM](https://github.com/acm-mu).
 
-🌱 I’m currently deepening my knowledge on [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), and [PySpark](http://spark.apache.org/docs/latest/api/python/).
+🌱 I’m currently deepening my knowledge on [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), and [Swift](https://developer.apple.com/swift/).
 
 🤝 I’m looking to collaborate on **AI related projects.** Projects like [this paper on Predictive Inequity in Object Detection](https://arxiv.org/pdf/1902.11097.pdf?fbclid=IwAR0XylkVZ-dRJZ_II6Me5200IWjvFYylQ1zInyZrlpwXFP6Ns7S7JZ7jeOc) are super fascinating to me.
 
