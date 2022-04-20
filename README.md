@@ -1,8 +1,8 @@
 # Hi 👋, I'm Brad Cooley
 
-### A passionate software engineer and data scientist originally from Colorado
+### A passionate software engineer, data engineer, and data scientist originally from Colorado
 
-💼 I’m currently working as a Data Engineering intern at [Steelcase](https://www.steelcase.com/) in Grand Rapids, MI.
+💼 I’m currently working as a Data Engineer at [Steelcase](https://www.steelcase.com/) in Grand Rapids, MI.
 
 🎓 I graduated from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!) in May, 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
