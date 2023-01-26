@@ -2,7 +2,7 @@
 
 ### A passionate software engineer, data engineer, and data scientist originally from Colorado
 
-💼 I’m currently working as a Data Engineer at [Steelcase](https://www.steelcase.com/) in Grand Rapids, MI.
+💼 I’m currently working as a Software Developer at [MichiganLabs](https://www.michiganlabs.com/) in Ada, MI.
 
 🎓 I graduated from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!) in May, 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
@@ -12,9 +12,7 @@
 
 🏗 In the past, I have worked on [Abacus](https://github.com/acm-mu/abacus) with [Jack Pfeiffer](https://github.com/Jl5her) and other members of [Marquette ACM](https://github.com/acm-mu).
 
-🌱 I’m currently deepening my knowledge on [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), and [Swift](https://developer.apple.com/swift/).
-
-🤝 I’m looking to collaborate on **AI related projects.** Projects like [this paper on Predictive Inequity in Object Detection](https://arxiv.org/pdf/1902.11097.pdf?fbclid=IwAR0XylkVZ-dRJZ_II6Me5200IWjvFYylQ1zInyZrlpwXFP6Ns7S7JZ7jeOc) are super fascinating to me.
+🌱 I’m currently deepening my knowledge on [TypeScript](https://www.typescriptlang.org/), [Angular](https://angular.io/), and [Swift](https://developer.apple.com/swift/).
 
 📫 [Email](mailto:brad@cooleyweb.org) is the best way to reach me.
 
