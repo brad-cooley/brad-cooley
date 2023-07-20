@@ -6,7 +6,9 @@
 
 🎓 I graduated from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!) in May, 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
-📚 I'm currently getting my M.S. in Computer Science at [Indiana University-Bloomington](https://www.indiana.edu/) (Go Hoosiers!) where I am focusing on AI and Computer Vision. I am currently collaborating with the [University of California, Davis](https://www.ucdavis.edu/) on a computer vision model that deals with chicken species detection.
+🎓 I also graduated from [Indiana University-Bloomington](https://www.indiana.edu/) (Go Hoosiers!) with my M.S. in Computer Science. During my time there, I focused on AI and Computer Vision.
+
+📝 I am collaborating with the [University of California, Davis](https://www.ucdavis.edu/) on a computer vision model dealing with chicken species detection.
 
 🔭 In my free time, I'm building a personal website (again).
 
