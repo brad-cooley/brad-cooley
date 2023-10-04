@@ -4,9 +4,9 @@
 
 💼 I’m currently working as a Software Developer at [MichiganLabs](https://www.michiganlabs.com/) in Ada, MI.
 
-🎓 I graduated from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!) in May, 2021 with a B.S. in Computer Science and a B.S. in Data Science.
+🎓 I graduated from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!) in May 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
-🎓 I also graduated from [Indiana University-Bloomington](https://www.indiana.edu/) (Go Hoosiers!) with my M.S. in Computer Science. During my time there, I focused on AI and Computer Vision.
+🎓 I also graduated from [Indiana University-Bloomington](https://www.indiana.edu/) (Go Hoosiers!) in May 2023 with my M.S. in Computer Science. During my time there, I focused on AI and Computer Vision.
 
 📝 I am collaborating with the [University of California, Davis](https://www.ucdavis.edu/) on a computer vision model dealing with chicken species detection.
 
@@ -18,7 +18,7 @@
 
 📫 [Email](mailto:brad@cooleyweb.org) is the best way to reach me.
 
-⚡ Fun fact: I love to enjoy the outdoors and offroading. I am an avid Jeeper, you can find my build on [RevKit](https://revkit.com/randal).
+⚡ Fun fact: I love to enjoy the outdoors and offroading. I am an avid Jeeper; you can find my build on [RevKit](https://revkit.com/randal).
 
 ---
 ### Connect with me:
