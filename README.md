@@ -1,8 +1,8 @@
 # Hi 👋, I'm Brad Cooley
 
-### A passionate data engineer, software engineer, and SwiftUI enthusiast originally from Colorado
+### A passionate data engineer, software engineer, and travel enthusiast originally from Colorado
 
-💻 I currently am a Senior Data Engineer at [Mutually Human](https://www.mutuallyhuman.com/).
+💻 I am currently a Senior Data Engineer at [Mutually Human](https://www.mutuallyhuman.com/).
 
 🎓 I graduated from [Marquette University](https://www.marquette.edu/) in May 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
@@ -12,17 +12,21 @@
 
 🔭 In my free time, I'm building some personal apps with Swift and SwiftUI as well as React Native.
 
-🌱 I’m currently deepening my knowledge on [React Native](https://reactnative.dev/), [Microsoft Fabric](https://fabric.microsoft.com/), and [dbt](https://www.getdbt.com/).
+🌱 I’m currently deepening my knowledge on [Microsoft Fabric](https://fabric.microsoft.com/), [the VIPER Architecture Pattern](https://www.objc.io/issues/13-architecture/viper/), and [Terraform](https://developer.hashicorp.com/terraform).
 
-📫 [Email](mailto:brad@cooleyweb.org) is the best way to reach me.
+📫 [Email](mailto:brad@cooley.email) is the best way to reach me.
 
-⚡ Fun fact: I love to enjoy the outdoors with my dog Kaya and my wife Erika.
+⚡ Fun fact: I love to travel and have been to 18 countries and counting!
+
+🇺🇸🇨🇦🇮🇪🇬🇧🇳🇴🇫🇷🇳🇱🇩🇪🇦🇹🇵🇹🇮🇹🇬🇷🇲🇰🇦🇱🇲🇦🇯🇵🇸🇬🇮🇩
 
 ---
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bradcooley/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://cooley.dev"><img src="https://img.shields.io/badge/portfolio-CE3DF3?style=for-the-badge&logoColor=white" /></a>
+	<a href="https://www.linkedin.com/in/bradcooley/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" /></a>
+	<a href="mailto:brad@cooleyweb.org"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ### Languages:
@@ -50,8 +54,8 @@
 ### Tools:
 
 <p align="left">
-	<a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" /></a>
 	<a href="https://fabric.microsoft.com/en-us/"><img src="https://img.shields.io/badge/Microsoft_Fabric-255A64?style=for-the-badge" alt="Fabric" /></a>
+	<a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" /></a>
 	<a href="https://azure.microsoft.com/en-us/"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge" alt="Azure" /></a>
 	<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
 	<a href="https://firebase.com/"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /></a>
