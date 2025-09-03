@@ -1,12 +1,14 @@
 # Hi 👋, I'm Brad Cooley
 
-### A passionate data engineer, software engineer, and travel enthusiast originally from Colorado
+### A passionate technical leader, data & software engineer, and travel enthusiast originally from Colorado
 
-💻 I am currently a Senior Data Engineer at [Mutually Human](https://www.mutuallyhuman.com/).
+💻 I am currently a Data Engineering Manager at [Mutually Human](https://www.mutuallyhuman.com/).
 
 🎓 I graduated from [Marquette University](https://www.marquette.edu/) in May 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
 🎓 I also graduated from [Indiana University-Bloomington](https://www.indiana.edu/) in May 2023 with my M.S. in Computer Science. During my time there, I focused on AI and Computer Vision.
+
+⭐ I'm a certified [Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/users/bradcooley-1361/credentials/7d4b8df46e87d02c).
 
 📝 I previously collaborated with the [University of California, Davis](https://www.ucdavis.edu/) on a computer vision model dealing with chicken species detection. Our paper is currently pending publication.
 
