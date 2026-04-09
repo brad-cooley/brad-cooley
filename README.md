@@ -2,7 +2,7 @@
 
 ### A passionate technical leader, data & software engineer, and travel enthusiast originally from Colorado
 
-💻 I am currently a Data Engineering Manager at [Mutually Human](https://www.mutuallyhuman.com/).
+💻 I am currently the Lead Senior Data Engineer at [Mutually Human](https://www.mutuallyhuman.com/).
 
 🎓 I graduated from [Marquette University](https://www.marquette.edu/) in May 2021 with a B.S. in Computer Science and a B.S. in Data Science.
 
@@ -20,7 +20,7 @@
 
 ⚡ Fun fact: I love to travel and have been to 18 countries and counting!
 
-🇺🇸🇨🇦🇮🇪🇬🇧🇳🇴🇫🇷🇳🇱🇩🇪🇦🇹🇵🇹🇮🇹🇬🇷🇲🇰🇦🇱🇲🇦🇯🇵🇸🇬🇮🇩
+🇺🇸🇨🇦🇮🇪🇬🇧🇳🇴🇫🇷🇳🇱🇩🇪🇦🇹🇵🇹🇮🇹🇬🇷🇲🇰🇦🇱🇲🇦🇯🇵🇸🇬🇮🇩🇲🇽
 
 ---
 ### Connect with me:
